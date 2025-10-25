@@ -1,14 +1,2 @@
-# Requests - HTTP library for sending requests to websites
-requests==2.31.0
-
-# BeautifulSoup4 - Library for parsing HTML and XML documents
 beautifulsoup4==4.12.2
-
-# HTML parser alternatives to lxml
-html5lib==1.1  # Pure Python HTML parser (slower but more lenient)
-
-# User-Agent - For rotating user agents to avoid being blocked
-fake-useragent==1.4.0
-
-# Rate limiting - To respect website rate limits and be a good citizen
-ratelimit==2.2.1
+requests==2.31.0
